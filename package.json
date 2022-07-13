@@ -1,5 +1,5 @@
 {
-  "name": "randompasswordgenerator",
+  "name": "randopass",
   "version": "1.0.0",
   "description": "This function takes \"length\" as argument and creates a complex random password of length \"length\".",
   "main": "index.js",

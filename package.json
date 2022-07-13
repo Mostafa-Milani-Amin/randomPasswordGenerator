@@ -1,0 +1,41 @@
+{
+  "name": "randompassword",
+  "version": "1.0.0",
+  "description": "This function takes \"length\" as argument and creates a complex random password of length \"length\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/randomPasswordGenerator.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "random",
+    "passwordgenerator",
+    "passwordmaker",
+    "crypto",
+    "javascript",
+    "js",
+    "maker",
+    "entropy",
+    "diceware",
+    "passphrase",
+    "encryption",
+    "cryptography",
+    "dictionary",
+    "secure",
+    "randomstring",
+    "security",
+    "pass",
+    "username"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/randomPasswordGenerator/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/randomPasswordGenerator#readme"
+}

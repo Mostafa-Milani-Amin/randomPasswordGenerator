@@ -1,11 +1,11 @@
-# randompassword
+# randompasswordgenerator
 
 > This function takes "length" as argument and creates a complex random password of length "length".
 
 ## Install
 
 ```sh
-npm install randompassword
+npm install randompasswordgenerator
 ```
 
 ## Usage

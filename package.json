@@ -1,6 +1,6 @@
 {
   "name": "randopass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This function takes \"length\" as argument and creates a complex random password of length \"length\".",
   "main": "index.js",
   "scripts": {
